@@ -1,15 +1,21 @@
-import adapter from '@sveltejs/adapter-auto';
+import adapter from "@sveltejs/adapter-static";
+
+const dev = "production" === "development";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-  extensions: ['.svelte', '.md'],
+  extensions: [".svelte", ".md"],
 
   kit: {
-    adapter: adapter(),
+    adapter: adapter({
+      pages: "build",
+      assets: "build",
+      fallback: null,
+    }),
 
     prerender: {
       default: true,
-      entries: ['*'],
+      entries: ["*"],
     },
   },
 };
