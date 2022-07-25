@@ -4,7 +4,7 @@
   export const load = createKitDocsLoader({
     sidebar: {
       '/': null,
-      '/docs': '/docs',
+      '/html': '/html'
     },
   });
 </script>
@@ -34,9 +34,9 @@
   export let sidebar = null;
 
   /** @type {import('@svelteness/kit-docs').NavbarConfig} */
-  const navbar = {
-    links: [{ title: 'Documentation', slug: '/docs', match: /\/docs/ }],
-  };
+ const navbar = {
+   links: [{ title: 'Mulai', slug: '/html', match: /\/html/ }],
+ };
 
   const { activeCategory } = createSidebarContext(sidebar);
 
