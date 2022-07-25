@@ -1,0 +1,144 @@
+{
+  ".svelte-kit/build/index.js": {
+    "file": "index.js",
+    "src": ".svelte-kit/build/index.js",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/build/hooks.js"
+    ]
+  },
+  "src/routes/kit-docs/[slug].meta.json.js": {
+    "file": "entries/endpoints/kit-docs/_slug_.meta.json.js",
+    "src": "src/routes/kit-docs/[slug].meta.json.js",
+    "isEntry": true
+  },
+  "src/routes/kit-docs/[dir].sidebar.json.js": {
+    "file": "entries/endpoints/kit-docs/_dir_.sidebar.json.js",
+    "src": "src/routes/kit-docs/[dir].sidebar.json.js",
+    "isEntry": true
+  },
+  ".svelte-kit/runtime/components/layout.svelte": {
+    "file": "entries/fallbacks/layout.svelte.js",
+    "src": ".svelte-kit/runtime/components/layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js"
+    ]
+  },
+  "src/routes/__layout-kit-docs.svelte": {
+    "file": "entries/pages/__layout-kit-docs.svelte.js",
+    "src": "src/routes/__layout-kit-docs.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js",
+      "_contexts-7c06151c.js",
+      "_scroll-134c54c0.js"
+    ],
+    "css": [
+      "_app/immutable/assets/__layout-kit-docs-4f7e0e27.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/Inter-VF.roman-latin-1b58736b.woff2",
+      "_app/immutable/assets/Inter-VF.italic-latin-65279caf.woff2",
+      "_app/immutable/assets/FiraCode-VF-05b30ba3.woff2",
+      "_app/immutable/assets/FiraCode-VF-71c5868a.woff"
+    ]
+  },
+  "src/routes/docs/__layout@kit-docs.svelte": {
+    "file": "entries/pages/docs/__layout@kit-docs.svelte.js",
+    "src": "src/routes/docs/__layout@kit-docs.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js"
+    ]
+  },
+  "src/routes/docs/[...1]first-category/[...1]first-page.md": {
+    "file": "entries/pages/docs/_...1_first-category/_...1_first-page.md.js",
+    "src": "src/routes/docs/[...1]first-category/[...1]first-page.md",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js",
+      "_scroll-134c54c0.js"
+    ]
+  },
+  "src/routes/docs/[...1]first-category/[...2]second-page.md": {
+    "file": "entries/pages/docs/_...1_first-category/_...2_second-page.md.js",
+    "src": "src/routes/docs/[...1]first-category/[...2]second-page.md",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js",
+      "_scroll-134c54c0.js"
+    ]
+  },
+  "src/routes/docs/[...2]second-category/[...1]first-page.md": {
+    "file": "entries/pages/docs/_...2_second-category/_...1_first-page.md.js",
+    "src": "src/routes/docs/[...2]second-category/[...1]first-page.md",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js",
+      "_scroll-134c54c0.js"
+    ]
+  },
+  "src/routes/docs/[...2]second-category/[...2]second-page.md": {
+    "file": "entries/pages/docs/_...2_second-category/_...2_second-page.md.js",
+    "src": "src/routes/docs/[...2]second-category/[...2]second-page.md",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js",
+      "_scroll-134c54c0.js"
+    ]
+  },
+  "src/routes/docs/index.svelte": {
+    "file": "entries/pages/docs/index.svelte.js",
+    "src": "src/routes/docs/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js"
+    ]
+  },
+  "src/routes/index@kit-docs.md": {
+    "file": "entries/pages/index@kit-docs.md.js",
+    "src": "src/routes/index@kit-docs.md",
+    "isEntry": true,
+    "imports": [
+      "_index-559eb7fe.js",
+      "_scroll-134c54c0.js",
+      "_contexts-7c06151c.js"
+    ]
+  },
+  "_index-559eb7fe.js": {
+    "file": "_app/immutable/chunks/index-559eb7fe.js"
+  },
+  "_contexts-7c06151c.js": {
+    "file": "_app/immutable/chunks/contexts-7c06151c.js",
+    "imports": [
+      "_index-559eb7fe.js",
+      "_scroll-134c54c0.js"
+    ]
+  },
+  "_scroll-134c54c0.js": {
+    "file": "_app/immutable/chunks/scroll-134c54c0.js",
+    "imports": [
+      "_index-559eb7fe.js"
+    ],
+    "css": [
+      "_app/immutable/assets/scroll-b25d4469.css"
+    ]
+  },
+  ".svelte-kit/build/hooks.js": {
+    "file": "_app/immutable/chunks/hooks-bced8853.js",
+    "src": ".svelte-kit/build/hooks.js",
+    "isDynamicEntry": true
+  }
+}

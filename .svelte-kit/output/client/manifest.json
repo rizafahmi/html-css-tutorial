@@ -1,0 +1,186 @@
+{
+  "src/fonts/Inter-VF.roman-latin.woff2": {
+    "file": "_app/immutable/assets/Inter-VF.roman-latin-1b58736b.woff2",
+    "src": "src/fonts/Inter-VF.roman-latin.woff2"
+  },
+  "src/fonts/FiraCode-VF.woff2": {
+    "file": "_app/immutable/assets/FiraCode-VF-05b30ba3.woff2",
+    "src": "src/fonts/FiraCode-VF.woff2"
+  },
+  "src/fonts/Inter-VF.italic-latin.woff2": {
+    "file": "_app/immutable/assets/Inter-VF.italic-latin-65279caf.woff2",
+    "src": "src/fonts/Inter-VF.italic-latin.woff2"
+  },
+  "src/fonts/FiraCode-VF.woff": {
+    "file": "_app/immutable/assets/FiraCode-VF-71c5868a.woff",
+    "src": "src/fonts/FiraCode-VF.woff"
+  },
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "_app/immutable/start-1574a863.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js",
+      "_singletons-75e1d0bd.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/runtime/components/layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/__layout-kit-docs.svelte",
+      "src/routes/docs/__layout@kit-docs.svelte",
+      "src/routes/docs/[...1]first-category/[...1]first-page.md",
+      "src/routes/docs/[...1]first-category/[...2]second-page.md",
+      "src/routes/docs/[...2]second-category/[...1]first-page.md",
+      "src/routes/docs/[...2]second-category/[...2]second-page.md",
+      "src/routes/docs/index.svelte",
+      "src/routes/index@kit-docs.md"
+    ]
+  },
+  ".svelte-kit/runtime/components/layout.svelte": {
+    "file": "_app/immutable/layout.svelte-129dd016.js",
+    "src": ".svelte-kit/runtime/components/layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "_app/immutable/error.svelte-27ba0fe7.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js"
+    ]
+  },
+  "src/routes/__layout-kit-docs.svelte": {
+    "file": "_app/immutable/pages/__layout-kit-docs.svelte-86557179.js",
+    "src": "src/routes/__layout-kit-docs.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js",
+      "_contexts-f32c0744.js",
+      "_scroll-37302ee8.js",
+      "_singletons-75e1d0bd.js"
+    ],
+    "css": [
+      "_app/immutable/assets/__layout-kit-docs-712ef586.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/Inter-VF.roman-latin-1b58736b.woff2",
+      "_app/immutable/assets/Inter-VF.italic-latin-65279caf.woff2",
+      "_app/immutable/assets/FiraCode-VF-05b30ba3.woff2",
+      "_app/immutable/assets/FiraCode-VF-71c5868a.woff"
+    ]
+  },
+  "src/routes/docs/__layout@kit-docs.svelte": {
+    "file": "_app/immutable/pages/docs/__layout@kit-docs.svelte-7ca676ff.js",
+    "src": "src/routes/docs/__layout@kit-docs.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js"
+    ]
+  },
+  "src/routes/docs/[...1]first-category/[...1]first-page.md": {
+    "file": "_app/immutable/pages/docs/_...1_first-category/_...1_first-page.md-63e059ed.js",
+    "src": "src/routes/docs/[...1]first-category/[...1]first-page.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js",
+      "_scroll-37302ee8.js",
+      "_singletons-75e1d0bd.js"
+    ]
+  },
+  "src/routes/docs/[...1]first-category/[...2]second-page.md": {
+    "file": "_app/immutable/pages/docs/_...1_first-category/_...2_second-page.md-3704c5a1.js",
+    "src": "src/routes/docs/[...1]first-category/[...2]second-page.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js",
+      "_scroll-37302ee8.js",
+      "_singletons-75e1d0bd.js"
+    ]
+  },
+  "src/routes/docs/[...2]second-category/[...1]first-page.md": {
+    "file": "_app/immutable/pages/docs/_...2_second-category/_...1_first-page.md-78dade98.js",
+    "src": "src/routes/docs/[...2]second-category/[...1]first-page.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js",
+      "_scroll-37302ee8.js",
+      "_singletons-75e1d0bd.js"
+    ]
+  },
+  "src/routes/docs/[...2]second-category/[...2]second-page.md": {
+    "file": "_app/immutable/pages/docs/_...2_second-category/_...2_second-page.md-0505515c.js",
+    "src": "src/routes/docs/[...2]second-category/[...2]second-page.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js",
+      "_scroll-37302ee8.js",
+      "_singletons-75e1d0bd.js"
+    ]
+  },
+  "src/routes/docs/index.svelte": {
+    "file": "_app/immutable/pages/docs/index.svelte-a9f9af5c.js",
+    "src": "src/routes/docs/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js"
+    ]
+  },
+  "src/routes/index@kit-docs.md": {
+    "file": "_app/immutable/pages/index@kit-docs.md-b7666b21.js",
+    "src": "src/routes/index@kit-docs.md",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-fa2e1bca.js",
+      "_scroll-37302ee8.js",
+      "_contexts-f32c0744.js",
+      "_singletons-75e1d0bd.js"
+    ]
+  },
+  "_index-fa2e1bca.js": {
+    "file": "_app/immutable/chunks/index-fa2e1bca.js"
+  },
+  "_singletons-75e1d0bd.js": {
+    "file": "_app/immutable/chunks/singletons-75e1d0bd.js",
+    "imports": [
+      "_index-fa2e1bca.js"
+    ]
+  },
+  "_contexts-f32c0744.js": {
+    "file": "_app/immutable/chunks/contexts-f32c0744.js",
+    "imports": [
+      "_index-fa2e1bca.js",
+      "_singletons-75e1d0bd.js"
+    ]
+  },
+  "_scroll-37302ee8.js": {
+    "file": "_app/immutable/chunks/scroll-37302ee8.js",
+    "imports": [
+      "_singletons-75e1d0bd.js",
+      "_index-fa2e1bca.js"
+    ],
+    "css": [
+      "_app/immutable/assets/scroll-f726ebda.css"
+    ]
+  },
+  "scroll.css": {
+    "file": "_app/immutable/assets/scroll-f726ebda.css",
+    "src": "scroll.css"
+  },
+  "src/routes/__layout-kit-docs.css": {
+    "file": "_app/immutable/assets/__layout-kit-docs-712ef586.css",
+    "src": "src/routes/__layout-kit-docs.css"
+  }
+}
