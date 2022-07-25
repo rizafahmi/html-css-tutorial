@@ -3,20 +3,20 @@
     "file": "_app/immutable/assets/Inter-VF.roman-latin-1b58736b.woff2",
     "src": "src/fonts/Inter-VF.roman-latin.woff2"
   },
-  "src/fonts/Inter-VF.italic-latin.woff2": {
-    "file": "_app/immutable/assets/Inter-VF.italic-latin-65279caf.woff2",
-    "src": "src/fonts/Inter-VF.italic-latin.woff2"
-  },
   "src/fonts/FiraCode-VF.woff2": {
     "file": "_app/immutable/assets/FiraCode-VF-05b30ba3.woff2",
     "src": "src/fonts/FiraCode-VF.woff2"
+  },
+  "src/fonts/Inter-VF.italic-latin.woff2": {
+    "file": "_app/immutable/assets/Inter-VF.italic-latin-65279caf.woff2",
+    "src": "src/fonts/Inter-VF.italic-latin.woff2"
   },
   "src/fonts/FiraCode-VF.woff": {
     "file": "_app/immutable/assets/FiraCode-VF-71c5868a.woff",
     "src": "src/fonts/FiraCode-VF.woff"
   },
   ".svelte-kit/runtime/client/start.js": {
-    "file": "_app/immutable/start-bb3f9dc8.js",
+    "file": "_app/immutable/start-1574a863.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
