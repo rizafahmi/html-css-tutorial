@@ -17,7 +17,6 @@
   import '@svelteness/kit-docs/client/styles/vars.css';
 
   import { page } from '$app/stores';
-  import SvelteLogo from '$img/svelte-horizontal.svg?raw';
 
   import {
     Button,
@@ -41,8 +40,8 @@
   const { activeCategory } = createSidebarContext(sidebar);
 
   $: category = $activeCategory ? `${$activeCategory}: ` : '';
-  $: title = meta ? `${category}${meta.title} | KitDocs` : null;
-  $: description = meta?.description;
+ $: title = meta ? `${category}${meta.title} | HACKTIV8 🦊` : null;
+ $: description = meta?.description;
 </script>
 
 <svelte:head>
@@ -60,7 +59,7 @@
   <KitDocsLayout {navbar} {sidebar}>
     <div class="logo" slot="navbar-left">
       <Button href="/">
-        {@html SvelteLogo}
+        <span role="img" aria-label="logo">🦊</span> HTML & CSS Tutorial
       </Button>
     </div>
 
