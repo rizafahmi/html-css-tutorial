@@ -5,7 +5,7 @@
   export function load() {
     return {
       status: 307,
-      redirect: '/html',
+      redirect: '/materi/',
     };
   }
 </script>
